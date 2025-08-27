@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Esther Ogbonna 👋🏽
 
-<!--
-**E-StephOfficial/E-StephOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data enthusiast | Mentor | Aspiring International Management Student**  
 
-Here are some ideas to get you started:
+I build and analyze data-driven projects while teaching others to grow their skills. My goal is to combine **analytics, communication, and international business** to solve global challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Skills
+
+**Technical Skills:**  
+Python | SQL | Tableau | Power BI | Jupyter Notebooks | Data Cleaning & Wrangling | Data Visualization  
+
+**Teaching & Mentorship:**  
+Mentorship | Communication | Curriculum Design | Content Creation  
+
+**Business & Global Perspective:**  
+International Management | Data-Driven Decision Making | Cross-Cultural Collaboration  
+
+
+## Projects & Highlights
+
+- **Mentorship & Teaching** 💡  
+  Founder of the upcoming E-Steph Mentorship Program to guide aspiring data analysts through hands-on lessons and practical exercises.  
+
+- **Hands-on Skills Practice**   
+  Completed various practical assignments in Python, SQL, Tableau, and data analysis as part of training and classroom projects.  
+
+*More projects coming soon as I launch my mentorship program and personal data analytics initiatives.*
+
+
+##  Contact & Links
+
+- Email: [esthertiana27@gmail.com](mailto:esthertiana27@gmail.com)  
+- LinkedIn: [linkedin.com/in/estherogbonna](#)  
+- Mentorship Program: 
+
+
+##  Future Vision
+
+Aspiring to combine **analytics, communication, and international business** to drive meaningful change globally.  
+
+
+✨ **Let’s connect and create impact together!**
