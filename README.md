@@ -31,8 +31,7 @@ International Management | Data-Driven Decision Making | Cross-Cultural Collabor
 ##  Contact & Links
 
 - Email: [esthertiana27@gmail.com](mailto:esthertiana27@gmail.com)  
-- LinkedIn: [linkedin.com/in/estherogbonna](#)  
-- Mentorship Program: 
+- LinkedIn: [www.linkedin.com/in/esther-ogbonna-0112602b0](#)   
 
 
 ##  Future Vision
